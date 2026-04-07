@@ -1,0 +1,20 @@
+title: PS2 No Final Mix Title ReFined
+originalAuthor: Unknown
+description: This is an automatically generated metadata for this KH2PCPATCH Modification.
+game: kh2
+dependencies: 
+assets:
+- name: remastered/menu/us/title.2ld/-7.png
+  method: copy
+  multi:
+  - name: remastered/menu/gr/title.2ld/-7.png
+  - name: remastered/menu/fr/title.2ld/-7.png
+  - name: remastered/menu/sp/title.2ld/-7.png
+  - name: remastered/menu/it/title.2ld/-7.png
+  - name: remastered/menu/us/title_fast.2ld/-7.png
+  - name: remastered/menu/gr/title_fast.2ld/-7.png
+  - name: remastered/menu/fr/title_fast.2ld/-7.png
+  - name: remastered/menu/sp/title_fast.2ld/-7.png
+  - name: remastered/menu/it/title_fast.2ld/-7.png
+  source:
+  - name: remastered/menu/titlescreen/regular_screen/-7.png
